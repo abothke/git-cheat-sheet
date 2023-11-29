@@ -18,6 +18,8 @@ h2{
 
 p{
     color: white;
+    font-size: 0.8em;
+    text-align: center;
 }
 main{
     display: flex;
